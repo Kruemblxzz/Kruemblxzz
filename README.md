@@ -1,4 +1,4 @@
-<img width="498" height="277" alt="Image" src="https://github.com/user-attachments/assets/93c5201e-b74d-4594-9a0c-924e231dd1d1" />
+
 <img width="640" height="640" alt="Image" src="https://github.com/user-attachments/assets/63bb59e6-fea9-400b-931d-62b6e948851f" />" /  
 
 
@@ -68,6 +68,7 @@ TADC
 
 Sanrio
 
+<img width="498" height="277" alt="Image" src="https://github.com/user-attachments/assets/93c5201e-b74d-4594-9a0c-924e231dd1d1" />
 ﹌﹌﹌﹌﹌
 
 
