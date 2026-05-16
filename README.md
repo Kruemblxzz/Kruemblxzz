@@ -5,7 +5,8 @@
 
 ────୨ৎ────
 
-<img width="483" height="226" alt="Image" src="https://github.com/user-attachments/assets/99ecf3c7-9112-472d-8cb4-aa5bb259cade
+
+
 
 
 interests: 
