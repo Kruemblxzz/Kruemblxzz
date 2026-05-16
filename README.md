@@ -113,3 +113,5 @@ Im Bi and a Aroace girl !
 im not comfy with telling my age to others
 
 i rlly love sweet foods and noodles 😋    uhh Yea thats pretty much it! oh uhh thank you 4 all the followz and the amazing friends i've made this year!  im super super supeeerrrr grateful :]
+
+<img width="498" height="87" alt="Image" src="https://github.com/user-attachments/assets/8c424ee3-533d-4a41-bd7d-5dc51bb091c4" />
