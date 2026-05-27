@@ -1,4 +1,4 @@
-<img width="2012" height="1746" alt="Image" src="https://github.com/user-attachments/assets/4bb5859b-4463-4442-ab76-e81a0e4a6fd3
+<img width="2012" height="1746" alt="Image" src="https://github.com/user-attachments/assets/0fc75af1-cb26-48ba-8cf7-f323a135596c" />
 
 lowk me 
 ^W^
