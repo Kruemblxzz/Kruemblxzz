@@ -1,3 +1,3 @@
 wow wip socute
-<img width="755" height="1117" alt="Image" src="https://github.com/user-attachments/assets/b79d4cdf-c3d0-4624-8814-479d740c40ec" />
+<img width="200" height="134" alt="Image" src="https://github.com/user-attachments/assets/6d6b5760-d1a3-4752-82f2-206eb380a9dc" />
 
