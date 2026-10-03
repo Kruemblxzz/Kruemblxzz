@@ -3,19 +3,7 @@
 <hea
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" 
-  <style>
-    body {
-      margin: 0;
-      height: 100vh;
-      display: grid;
-      place-items: center;
-      background: #111;
-    
-  <div class="typewriter">
-    <span id="text"></span><span class="cursor"></span>
-  </div>
-
-  <script>
+  <s
     const phrases = [
       "As fast as a gallimus",
       "Hooray, I'm not extinct!",
