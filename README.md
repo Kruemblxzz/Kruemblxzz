@@ -1,4 +1,11 @@
-[DNI](https://example.com)
-[Pro/darks](https://example.com)
-[NSFW artist](https://example.com)
-[AI bros](https://example.com)
+[DNI](#dni) • [Pro/darks](#pro-darks) • [NSFW artist](#nsfw-artist) • [AI bros](#ai-bros)
+
+---
+
+## DNI
+
+## Pro/darks
+
+## Nsfw artist
+
+## AI bros
