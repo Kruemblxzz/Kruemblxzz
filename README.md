@@ -1,11 +1,14 @@
 
-
-<p align="center">
-  <span style="color:#c084fc; font-size:28px;"><b>Kruemblxzz / Akai!</b></span><br><br>
-  <span style="color:#4ade80; font-size:20px;">strictly they / Them</span><br><br>
-  <span style="color:#a78bfa; font-size:22px;">dni</span><br><br>
-  <span style="color:#22c55e; font-size:20px;"><b>pro/Darks</b></span><br><br>
-  <span style="color:#86efac;">- overall just toxic people</span><br>
-  <span style="color:#a78bfa;">- if you cant respect my dni's</span><br>
-  <span style="color:#4ade80;">- if you misgender me even tho I correct you a lot</span>
-</p>
+<svg width="300" height="50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#9333ea;stop-opacity:1" />
+      <stop offset="33%" style="stop-color:#eab308;stop-opacity:1" />
+      <stop offset="66%" style="stop-color:#808000;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#22c55e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <text x="10" y="35" font-size="28px" font-weight="bold" fill="url(#grad1)">
+    Kruemblxzz / Akai!
+  </text>
+</svg>
