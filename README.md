@@ -1,5 +1,6 @@
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Purple+%E2%86%92+Yellow+%E2%86%92+Green" />
 <a href="https://sketchersunited.com">
-  <img src="https://your-image-url.com/image.png" width="100" height="100" alt="SketchersUnited" />
+  <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/e5b4e5e5-7740-4a05-ae8b-8c3550ea9c3a" />
+
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/e5b4e5e5-7740-4a05-ae8b-8c3550ea9c3a" /> alt="SketchersUnited" />
 </a>
