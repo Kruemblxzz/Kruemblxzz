@@ -8,7 +8,8 @@
 
                               dni
 
-                              -pro/Darks   
+                              
+<span style="color:#a855f7">pro/Darks   
                               
                               
                               -overall Just toxic people
