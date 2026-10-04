@@ -1,8 +1,2 @@
-HI HELLO WELCOMEE HI HIIII check out my links below ok?? Ons has my art one has more info
-
-<img width="258" height="402" alt="Image" src="https://github.com/user-attachments/assets/e22d7d3d-4407-4c9e-a7fb-d7d4fae435e3" />
-                              kruem or akai!     
-
-                       Shelly and looey main,
-
-                       they / Them strictly  Iw(e)c unl friends
+<img width="1647" height="836" alt="Image" src="https://github.com/user-attachments/assets/97d4001d-f252-4cbc-8b09-4c09d3ec1ba7" />
+                                <img width="624" height="676" alt="Image" src="https://github.com/user-attachments/assets/537729ec-5018-484c-bc81-bdaa39dfda18" />
